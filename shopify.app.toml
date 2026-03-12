@@ -1,0 +1,15 @@
+# Shopify App Configuration
+
+# The configuration file for your Shopify app
+
+# Required scopes for access
+scopes = [
+    "read_admin",
+    "write_admin",
+    "read_themes",
+    "write_themes",
+    "read_pages",
+    "write_pages"
+]
+
+# Additional configuration settings can be added below
